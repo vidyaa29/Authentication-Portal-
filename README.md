@@ -1,8 +1,8 @@
 # Authentication Portal 
-### A web based customised user interface developed for a unique passphrase input and video recording, and AI systemto match the users voice and face with previously saved data, and accordingly authenticate or reject the user
+### A web based customised user interface developed for a unique passphrase input and video recording, and AI system to match the users voice and face with previously saved data, and accordingly authenticate or reject the user
 
 ## Preprocessing 
-### Cocktail party problem - noise reductuon using Fourier analysis by finding the bandwidth of background noise
+### Cocktail party problem - noise reduction using Fourier analysis by finding the bandwidth of background noise
 ## Feature Extraction 
 ### Using MFCC and MEL spectrogram
 ## Speaker recognition 
